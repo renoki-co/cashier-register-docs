@@ -1,6 +1,6 @@
 # 🗾 Defining the plans
 
- In `CashierRegisterServiceProvider`'s `boot` method you may define the plans you need:
+&#x20;In `CashierRegisterServiceProvider`'s `boot` method you may define the plans you need:
 
 ```php
 use RenokiCo\CashierRegister\CashierRegisterServiceProvider as BaseServiceProvider;

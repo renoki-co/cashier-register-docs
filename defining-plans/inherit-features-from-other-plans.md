@@ -17,4 +17,4 @@ $paidPlan = Saas::plan('Paid Plan', 'paid-plan')->inheritFeaturesFromPlan($freeP
 ]);
 ```
 
- **Keep in mind, avoid using further `->features()` when inheriting from another plan.**
+&#x20;**Keep in mind, avoid using further `->features()` when inheriting from another plan.**
